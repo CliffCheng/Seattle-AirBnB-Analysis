@@ -39,5 +39,9 @@ The full set of data and analysis can be found on Kaggle's Website:
 
 https://www.kaggle.com/cliffcheng/seattle-airbnb-intro-analysis
 
+# Jupyter Notebook
+If you cannot read the Ipynb in github please see the link below for a Juypter Notebook version. 
+https://nbviewer.jupyter.org/github/CliffCheng/Seattle-AirBnB-Analysis/blob/master/seattle-airbnb-intro-analysis.ipynb
+
 # Acknowledgements
 I wanted to thank Udacity and my mentors in giving me this opportunity to learn. I had so much fun with this project. Credit to Kaggle for the AirBnB datasets for 2016. 
