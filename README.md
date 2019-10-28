@@ -26,7 +26,13 @@ How are property types dispersed throughout Seattle?
 
 Are there areas of potential opportunities depending on neighbourhoods?
 
+# Files
+The datasets used are too large to fit inside GitHub but you can find the full dataset on Kaggle (website link below). I have included a copy of the code used in this analysis. To view the full details of the analysis please refer to the Kaggle link below.
 
-Kaggle Website:
+# Kaggle Website
+The full set of data and analysis can be found on Kaggle's Website:
 
 https://www.kaggle.com/cliffcheng/seattle-airbnb-intro-analysis
+
+# Acknowledgements
+I wanted to thank Udacity and my mentors in giving me this opportunity to learn. I had so much fun with this project. Credit to Kaggle for the AirBnB datasets for 2016. 
