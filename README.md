@@ -20,11 +20,16 @@ I recently visited Seattle with a number of good friends and had nothing but pos
 
 I have three questions I want to answer with this dataset.
 
-Where are the most expensive neighbourhoods to rent an AirBnB?
+# Where are the most expensive neighbourhoods to rent an AirBnB?
+This answer is more variable for housing units but in summary the more expensive neighbourhoods are:
 
-How are property types dispersed throughout Seattle?
+Queen Anne, Ballard, Lower Queen Anne, Minor, Capitol Hill, Pike Place Market, Central Business District, Belltown, and Firsthill.
 
-Are there areas of potential opportunities depending on neighbourhoods?
+# How are property types dispersed throughout Seattle?
+Most of the apartments are centered around Belltown where it mainly consists businesses and residental units are less avaliable. Houses and other apartments are clustered north.
+
+# Are there areas of potential opportunities depending on neighbourhoods?
+Belltown is a high demand region with a focus on apartments. There are a lot of areas that have fewer AirBnB listings but are close to areas of high demand. The next step would be to build a model based on pricing that we can use to estimate the potential revenue of certain areas to help potential AirBnB hosts rent out their avaliable units.
 
 # Files
 The datasets used are too large to fit inside GitHub but you can find the full dataset on Kaggle (website link below). I have included a copy of the code used in this analysis. To view the full details of the analysis please refer to the Kaggle link below.
